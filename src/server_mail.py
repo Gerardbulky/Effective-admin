@@ -4,7 +4,7 @@ from utils.mail.mail_utils import get_service, respond_to_mails
 
 # If modifying these SCOPES, delete the file token.json.
 SCOPES = ["https://www.googleapis.com/auth/gmail.modify"]
-SENDER_ADRESS = "informationhantering@gmail.com"
+SENDER_ADRESS = "bossexpert01@gmail.com"
 USER_ID = "me"
 
 
